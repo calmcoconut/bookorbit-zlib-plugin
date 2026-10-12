@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "file": {
+    "downloadLink": "https://dl.zlib.example/book.epub",
+    "filesize": 1048576,
+    "extension": "epub",
+    "description": "Clean Title",
+    "author": "Author Name"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "books": [
+    {
+      "id": 1234567,
+      "hash": "b8f4a1",
+      "title": "Practical Clean Architecture",
+      "author": "Robert C. Martin",
+      "extension": "epub",
+      "filesize": 1048576,
+      "language": "english"
+    },
+    {
+      "id": 2345678,
+      "hash": "c9a2e3",
+      "title": "Modern Systems Design",
+      "author": "Martin Kleppmann",
+      "extension": "pdf",
+      "filesize": 5242880,
+      "language": "english"
+    }
+  ]
+}
